@@ -1,2 +1,35 @@
-**/out/**
-.idea/*
+/.idea/
+/deploy/
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/.classpath
+/.project
+/.settings
+/.idea
+ypro.iml
+appmgr.iml
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+*.class
+*/target/
+*.log
